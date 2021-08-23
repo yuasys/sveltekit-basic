@@ -14,5 +14,4 @@ li {
 }
 </style>
 
-<h1>Homepage</h1>
-
+<h1>About</h1>
