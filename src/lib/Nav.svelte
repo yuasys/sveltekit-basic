@@ -7,11 +7,11 @@
 ul {
   display: flex;
   list-style: none;
+  margin: 0;
+  padding: 0;
 }
 li {
   margin-right: 10px;
   text-decoration: none;
 }
 </style>
-
-<h1>Contact</h1>
